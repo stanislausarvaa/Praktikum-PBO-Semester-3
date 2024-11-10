@@ -6,7 +6,7 @@ package praktikum9;
 
 /**
  *
- * @author wahyu
+ * @author
  */
 // Kode utama untuk pengujian
 public class Main {
