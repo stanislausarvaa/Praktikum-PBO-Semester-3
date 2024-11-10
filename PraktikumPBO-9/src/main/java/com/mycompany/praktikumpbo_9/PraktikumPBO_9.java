@@ -6,7 +6,7 @@ package com.mycompany.praktikumpbo_9;
 
 /**
  *
- * @author wahyu
+ * @author
  */
 public class PraktikumPBO_9 {
 
