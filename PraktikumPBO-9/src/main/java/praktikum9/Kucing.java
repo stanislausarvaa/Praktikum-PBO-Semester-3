@@ -6,7 +6,7 @@ package praktikum9;
 
 /**
  *
- * @author wahyu
+ * @author
  */
 // Kelas turunan Kucing
 class Kucing extends Hewan {
