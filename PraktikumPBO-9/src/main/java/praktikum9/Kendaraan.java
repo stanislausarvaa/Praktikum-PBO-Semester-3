@@ -6,7 +6,7 @@ package praktikum9;
 
 /**
  *
- * @author wahyu
+ * @author
  */
 // Definisi kelas abstrak
 abstract class Kendaraan {
