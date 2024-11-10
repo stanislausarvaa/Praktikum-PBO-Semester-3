@@ -6,7 +6,7 @@ package praktikum9;
 
 /**
  *
- * @author wahyu
+ * @author 
  */
 public class MainHewan {
     public static void main(String[] args) {
